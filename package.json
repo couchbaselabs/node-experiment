@@ -1,0 +1,5 @@
+{ "name" : "couchbase-client"
+, "description" : "A client for Couchbase Server 2.0"
+, "version" : "0.0.0"
+, "author" : "Couchbase, Inc. <info@couchbase.com>"
+}
